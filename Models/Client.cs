@@ -1,0 +1,9 @@
+﻿namespace Srez.Models
+{
+    public class Client
+    {
+        public string LastName { get; set; }
+        public string FirstName { get; set; }
+        public string Patronymic { get; set; }
+    }
+}
